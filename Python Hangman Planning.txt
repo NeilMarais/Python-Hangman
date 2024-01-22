@@ -1,0 +1,6 @@
+Python Hangman Planning
+
+finish coding so that the difficulty can actually be adjusted - DONE
+
+correct the winning identifier so we can figure out when a player actually wins by character 
+does the word guessing work? - no
