@@ -11,3 +11,4 @@ This project implements a simple Hangman game in the command-line. The programme
 3. Strings
 4. User Input from command line
 5. Control Flow Statements
+6. Reading From Text Files
